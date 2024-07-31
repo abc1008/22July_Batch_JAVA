@@ -4,6 +4,8 @@ public class ArrayDiscussion {
 	
 	public static void main(String[] args) {
 		
+		System.out.println("GIT Test Change");
+		
 		
 //		SYNTAX:  
 		
